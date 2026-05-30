@@ -49,7 +49,7 @@ The raw data is provided in `TXT/CSV` format, collected using the **G-NetTrack P
 
 In addition to raw logs, this repository includes MATLAB files used for data post-processing and spatial visualisation.
 
-> **Requirements:** To open the `.fig` map files and run the provided `.m` scripts, you must have **MATLAB** installed on your computer.
+> **Requirements:** To open the `.fig` map files and run the provided `.m` scripts, you must have **MATLAB** with **Mapping Toolbox** add-on installed on your computer.
 
 Once downloaded and opened in MATLAB, you can fully interact with the figures — zoom in on specific streets, pan across the railway corridors, and inspect the precise handover points and signal drops. If you do not have MATLAB, you can still use the raw CSV/TXT logs to create your own visualizations in open-source GIS software like **QGIS** or **Google Earth**.
 
@@ -101,6 +101,6 @@ Surové dáta sú poskytované vo formáte `TXT/CSV` a boli zbierané pomocou ap
 
 Okrem surových logov tento repozitár obsahuje aj MATLAB súbory využité na post-processing a priestorovú vizualizáciu dát.
 
-> **Požiadavky:** Na otvorenie súborov `.fig` a spustenie priložených skriptov `.m` je potrebné mať nainštalovaný **MATLAB**.
+> **Požiadavky:** Na otvorenie súborov `.fig` a spustenie priložených skriptov `.m` je potrebné mať nainštalovaný **MATLAB** s doplnkom **Mapping Toolbox** .
 
 Po stiahnutí a otvorení v prostredí MATLAB môžete s mapami plne interagovať — približovať konkrétne ulice, posúvať sa po trati a detailne skúmať body handoveru či výpadky signálu. Ak MATLAB nemáte k dispozícii, surové logy vo formáte CSV/TXT je možné vizualizovať aj v open-source GIS softvéri, napríklad v **QGIS** alebo **Google Earth**.
